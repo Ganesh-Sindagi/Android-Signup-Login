@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 Bundle bundle = new Bundle();
                 // Passing default bundle values -- it is shit thou but should be done!!!
                 bundle.putString("user", "Ganesh");
-                bundle.putString("Lab@2018", "@Ganesh7");
+                bundle.putString("Lab@2018", "@PassTest20");
                 i.putExtras(bundle);
                 startActivity(i);
             }
